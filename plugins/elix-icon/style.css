@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'elix-icon';
+  src:  url('fonts/elix-icon.eot?gdj5zm');
+  src:  url('fonts/elix-icon.eot?gdj5zm#iefix') format('embedded-opentype'),
+    url('fonts/elix-icon.ttf?gdj5zm') format('truetype'),
+    url('fonts/elix-icon.woff?gdj5zm') format('woff'),
+    url('fonts/elix-icon.svg?gdj5zm#elix-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="elix-icon-"], [class*=" elix-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'elix-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.elix-icon-diagram:before {
+  content: "\e90a";
+}
+.elix-icon-strategy:before {
+  content: "\e90b";
+}
+.elix-icon-pie-chart:before {
+  content: "\e90c";
+}
+.elix-icon-mission:before {
+  content: "\e90d";
+}
+.elix-icon-report-1:before {
+  content: "\e907";
+}
+.elix-icon-wallet:before {
+  content: "\e908";
+}
+.elix-icon-analytics:before {
+  content: "\e909";
+}
+.elix-icon-target:before {
+  content: "\e905";
+}
+.elix-icon-add:before {
+  content: "\e906";
+}
+.elix-icon-cogwheel:before {
+  content: "\e904";
+}
+.elix-icon-close:before {
+  content: "\e900";
+}
+.elix-icon-menu:before {
+  content: "\e90f";
+}
+.elix-icon-search:before {
+  content: "\e90e";
+}
+.elix-icon-exploration:before {
+  content: "\e901";
+}
+.elix-icon-human-resources:before {
+  content: "\e902";
+}
+.elix-icon-options:before {
+  content: "\e903";
+}
